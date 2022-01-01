@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="https://github.com/m4mallu">Pdf Compressor Telegram Bot
+    <a href="https://github.com/miuiprojects">Pdf Compressor Telegram Bot
 </a>
 </h1>
 
@@ -20,7 +20,7 @@
         <b><u>Deploy in VPS:</u></b>
         <ul>
             <li><strong>Open a Linux Terminal and Run the below commands ( Stage: 1 )</strong></li>
-            <li><code>git clone https://github.com/m4mallu/compress-pdf-tg-bot</code></li>
+            <li><code>git clone https://github.com/miuiprojects/mipdfcompressor</code></li>
             <li><code>cd compress-pdf-tg-bot</code></li>
             <li>Create a <code>config.py</code> with the Mandatory variables (Refer sample_config.py) and save it in the bot directory.</li>
             <li><strong>Run the below commands in the same terminal ( Stage: 2 )</strong></li>
@@ -32,7 +32,7 @@
         <b><u>Deploy in Heroku</u></b>
         <ul>
             <li><strong>Click the below button to deploy the bot in Heroku</strong></li>
-            <a href="https://heroku.com/deploy?template=https://github.com/m4mallu/compress-pdf-tg-bot">
+            <a href="https://heroku.com/deploy?template=https://github.com/miuiprojects/mipdfcompressor">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
         </a>
         </ul>
