@@ -1,18 +1,18 @@
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-start = 
+start = [
         [
-           
+            InlineKeyboardButton('Support', url='t.me/rmprojects'),
             InlineKeyboardButton('Source', url='github.com/miuiprojects')
         ]
-       
+        ]
 
-close = 
+close = [
         [
-            
+            InlineKeyboardButton('Support', url='t.me/rmprojects'),
             InlineKeyboardButton('Close', callback_data='close_btn')
         ]
-        
+        ]
 
 start_buttons = InlineKeyboardMarkup(start)
 close_button = InlineKeyboardMarkup(close)
