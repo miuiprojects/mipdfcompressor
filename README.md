@@ -41,8 +41,9 @@
   <summary><b>Developer</b></summary>
     <p align="left">
         <img alt="GPL3" src ="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="260px" style="max-width:100%;"/><br>
-            <a href="https://t.me/space4renjith"><b>Renjith Mangal</b></a> &nbsp;|&nbsp;
-                <a href="https://t.me/rmprojects"><b>Update Channel</b></a>
+            <a href="https://t.me/miuiprojects"><b>Madhavanmi</b></a> &nbsp;|&nbsp;
+                <a href="https://t.me/miuiprojects"><b>Update Channel</b></a>
+                <p> Credit - > rm project </p>
 </p>
 </details>
 <details>
