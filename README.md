@@ -38,7 +38,7 @@
         </ul>
 </details>
 <details>
-  <summary><b> ✳️ Noob Dev </b></summary>
+  <summary><b>  Noob Dev </b></summary>
     <p align="left">
         <img alt="GPL3" src ="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="260px" style="max-width:100%;"/><br>
             <a href="https://t.me/miuiprojects"><b>Madhavanmi</b></a> &nbsp;|&nbsp;
