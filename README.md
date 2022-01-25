@@ -3,7 +3,7 @@
 </a>
 </h1>
 
-#### A simple pdf size compressing telegram robot. Useful for digital documentation.
+##### A simple pdf size compressing telegram robot. Useful for digital documentation.
 
 <details>
   <summary><b>Mandatory Variables</b></summary>
